@@ -9,15 +9,15 @@ export default function Sidebar() {
           <h3 className="sidebarTitle">Dashboard</h3>
           <div className="sidebarList">
             <ul className="sidebarList">
-              <li className="SidebarLisIte">
+              <li className="sidebarListItem">
                 <LineStyle />
                 Home
               </li>
-              <li className="SidebarLisIte">
+              <li className="sidebarListItem">
                 <Timeline />
                 Analitics
               </li>
-              <li className="SidebarLisIte">
+              <li className="sidebarListItem">
                 <TrendingUp />
                 Sales
               </li>

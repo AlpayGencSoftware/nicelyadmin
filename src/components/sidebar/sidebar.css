@@ -16,3 +16,13 @@
     font-size: 13px;
     color: rgb(98, 201, 201);
 }
+.sidebarList{
+    list-style: none;
+    padding: 5px;
+}
+.sidebarListItem{
+    padding: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
