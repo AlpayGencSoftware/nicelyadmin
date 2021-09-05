@@ -1,3 +1,7 @@
 .sidebar{
     flex: 1;
+    height: 100vh;
+    background-color: darkcyan;
+    position: sticky;
+    top: 50px;
 }
